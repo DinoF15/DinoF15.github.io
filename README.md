@@ -1,5 +1,6 @@
 # [Start Bootstrap - Resume](https://startbootstrap.com/template-overviews/resume/)
 
+This website can be accessed @ [https://dinof15.github.io/](https://dinof15.github.io/)
 
 ## Download and Installation
 
