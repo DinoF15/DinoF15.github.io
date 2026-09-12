@@ -1,11 +1,10 @@
 sudo:          false
 language:      node_js
 node_js:
-  - "node"
+  - "22"
 install:       npm install
 script:
-  - npm test
-  - gulp
+  - npm run check
 cache:
   directories:
     - node_modules
